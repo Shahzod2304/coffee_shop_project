@@ -1,1 +1,1 @@
-web: gunicorn 'coffee_shop_project-application.wsgi'
+web: gunicorn config.wsgi --log-file -
