@@ -9,6 +9,7 @@ django-bootstrap4 = "*"
 whitenoise = "==5.1.0"
 gunicorn = "*"
 django-crispy-forms = "*"
+crispy-bootstrap4 = "*"
 
 [dev-packages]
 
